@@ -66,7 +66,7 @@ Add this to `.cursor/mcp.json` file.
   "mcpServers": {
     "mcp-deepwiki": {
       "command": "npx",
-      "args": ["-y", "mcp-deepwiki@latest"]
+      "args": ["-y", "@bachstudio/mcp-deepwiki@latest"]
     }
   }
 }
@@ -187,7 +187,7 @@ Fetched https://deepwiki.com/user/repo/page2: 6200 bytes in 280ms (status: 200)
 
 ```bash
 # Clone the repository
-git clone https://github.com/regenrek/deepwiki-mcp.git
+git clone https://github.com/BACH-AI-Tools/deepwiki-mcp.git
 cd deepwiki-mcp
 
 # Install dependencies
