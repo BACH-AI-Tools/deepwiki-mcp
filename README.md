@@ -6,6 +6,8 @@ This is an **unofficial Deepwiki MCP Server**
 
 It takes a Deepwiki URL via MCP, crawls all relevant pages, converts them to Markdown, and returns either one document or a list by page.
 
+> **基于原项目**: 此项目基于 [deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) 修改而来
+
 ## Features
 
 - 🔒 **Domain Safety**: Only processes URLs from deepwiki.com
